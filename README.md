@@ -9,7 +9,7 @@
 <p align="center">
         </samp>
                 <br>
-                「 If you need to contact me: `blame#1337`  」
+                「 If you need to contact me: blame#1337  」
                 <br>
                 <br>
         </samp>
