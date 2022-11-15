@@ -30,7 +30,8 @@
 
 # <h1 align="center"> ABOUT ME </h1>
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/955867879687979071/955886262244487259/E27B0240-5650-4033-88FD-680651298A48.gif" width="300"/>
+  <a><img src="https://media.discordapp.net/attachments/955867879687979071/955886262244487259/E27B0240-5650-4033-88FD-680651298A48.gif" width="300"/>
+</a> 
 </p>
 
 
