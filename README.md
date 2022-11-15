@@ -10,3 +10,5 @@
         </samp>
 
    <a href="https://github.com/inadevertently?tab=repositories" target="_blank"><img alt="Code"
+                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+        </a>
