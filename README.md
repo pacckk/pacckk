@@ -30,9 +30,10 @@
 
 # <h1 align="center"> ABOUT ME </h1>
 
-<p align="center">  
-<img src="https://readme-typing-svg.herokuapp.com/?font=&pause=1000&color=2E91F7&width=435&lines=Experienced+python+developer;Learning+new+languages">
+<p align="center">
+  <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python;Keen+to+learn+new+things"></a>
 </p>
+
 
 `founder @ wonder`
         
