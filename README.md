@@ -9,6 +9,6 @@
 <p align="center">
         </samp>
 
-   <a href="https://github.com/inadevertently?tab=repositories" target="_blank"><img alt="Python"
+   <a href="https://github.com/blaamee?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a>
