@@ -31,7 +31,7 @@
 # <h1 align="center"> ABOUT ME </h1>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=30&center=true&lines=Self+taught+developer;Experienced+in+python;Keen+to+learn+new+things"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?color=3DF7E2&size=30&center=true&lines=Experienced+python+developer;Learing+new+languages"></a>
 </p>
 
 
