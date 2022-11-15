@@ -28,7 +28,10 @@
       
 </p>
 
+### Hello
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
 
+`founder @ wonder`
         
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=blaamee">
