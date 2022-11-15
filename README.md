@@ -9,7 +9,7 @@
 <p align="center">
         </samp>
                 <br>
-                「 If you need to contact me: [blame#1337](https://discordapp.com/users/1022693612057804806)  」
+                「 If you need to contact me: `blame#1337`  」
                 <br>
                 <br>
         </samp>
@@ -36,8 +36,6 @@
  </a> 
  </p>
 
-
-`founder @ wonder`
         
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=blaamee">
