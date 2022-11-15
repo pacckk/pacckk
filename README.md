@@ -25,7 +25,7 @@
         <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         </a>
-        
+ ![](https://discord.c99.nl/widget/theme-4/1022693612057804806.png)
       
 </p>
 
