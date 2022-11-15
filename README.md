@@ -15,13 +15,18 @@
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
-        <a href="https://github.com/inadevertently?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://github.com/blaamee?tab=repositories" target="_blank"><img alt="Code"
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
         <!-- py -->
         <a href="https://github.com/inadevertently?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a>
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+        </a>
+        
+      
 </p>
 
 
