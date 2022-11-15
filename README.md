@@ -28,8 +28,7 @@
       
 </p>
 
-### Hello
-<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300"/>
+# <h1 align="center"> ABOUT ME </h1>
 
 `founder @ wonder`
         
