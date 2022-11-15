@@ -9,7 +9,7 @@
 <p align="center">
         </samp>
                 <br>
-                「 Languages I know are python, and html  」
+                「 If you need to contact me: [blame#1337](https://discordapp.com/users/1022693612057804806)  」
                 <br>
                 <br>
         </samp>
