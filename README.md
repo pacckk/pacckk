@@ -32,7 +32,7 @@
 
 <p align="center">  
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=&pause=1000&color=2E91F7&width=435&lines=Experienced+python+developer;Learning+new+languages">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=&pause=1000&color=2E91F7&width=435&lines=Experienced+python+developer;Learning+new+languages">
 </p>
 
 `founder @ wonder`
