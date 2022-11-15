@@ -41,7 +41,7 @@
  </a> 
  </p>
  
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently working on [wonder](https://wonder.rip). <img width="15%" align="right" alt="Github Image" img src="https://i.pinimg.com/564x/ec/37/6c/ec376cc3e3dd5120cd27ea8f41417669.jpg" /><br>
+-  <img alt="GIF" src="https://github.com" width="25" /> &nbsp; I'm currently working on [wonder](https://wonder.rip). <img width="15%" align="right" alt="Github Image" img src="https://cdn.discordapp.com/attachments/1040475352985767956/1041962273075367946/destroy.jpg" /><br>
 
         
 <p align="center">  
