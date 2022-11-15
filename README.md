@@ -19,10 +19,10 @@
                         src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
         </a>
         <!-- py -->
-        <a href="https://github.com/inadevertently?tab=repositories" target="_blank"><img alt="Python"
+        <a href="https://github.com/blaamee?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </a>
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
+        <a href="https://github.com/blaamee?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
         </a>
       
@@ -31,8 +31,7 @@
 # <h1 align="center"> ABOUT ME </h1>
 
 <p align="center">  
-
-        <img src="https://readme-typing-svg.herokuapp.com/?font=&pause=1000&color=2E91F7&width=435&lines=Experienced+python+developer;Learning+new+languages">
+<img src="https://readme-typing-svg.herokuapp.com/?font=&pause=1000&color=2E91F7&width=435&lines=Experienced+python+developer;Learning+new+languages">
 </p>
 
 `founder @ wonder`
