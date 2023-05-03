@@ -13,6 +13,6 @@
 <details>
   <summary>Statistics</summary>
 <p align="center">
-  <img src="https://github-profile-counter.beliefs.repl.co/blaamee?left_color=black&right_color=black" alt="ledges" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blaamee&show_icons=true&theme=apprentice" alt="ledges" />
 </p>
 
