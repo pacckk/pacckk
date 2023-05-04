@@ -12,10 +12,16 @@
 ```
 <details>
   <summary>Statistics</summary>
-<p align="center">
+ <p align="center">
   <img src="https://komarev.com/ghpvc/?username=blaamee" alt="ledges" />
-  <img src="https://github-readme-stats.vercel.app/api?username=blaamee&show_icons=true&theme=apprentice" alt="ledges" />
 </p>
+<br />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ecriminals&show_icons=true&theme=apprentice" />
+</p>
+<br>
+</details>
+
  
 
 <details>
