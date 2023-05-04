@@ -17,7 +17,7 @@
 </p>
 <br />
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ecriminals&show_icons=true&theme=apprentice" />
+    <img src="https://github-readme-stats.vercel.app/api?username=blaamee&show_icons=true&theme=apprentice" />
 </p>
 <br>
 </details>
@@ -27,7 +27,7 @@
 <details>
   <summary>Languages</summary>
 <p align="center">
-  Crystal, Julia, Golang, Python, Haskell
+<a align="left" href="https://github.com/cop-discord?tab=repositories" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
 </p>
 </details>
 
